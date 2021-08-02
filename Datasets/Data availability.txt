@@ -1,0 +1,18 @@
+Data is available at 
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S76AZS
+
+
+Do not forget to cite the following item if you find it useful.
+
+
+@data{DVN/S76AZS_2021,
+author = {Hasan, Md. Kamrul and Jawad Md. Tasnim and Dutta, Aishwariya and Awal Md. Abdul and Islam, Md. Akhtarul and Masud Mehedi and F. al-amr Jehad},
+publisher = {Harvard Dataverse},
+title = {{Measles}},
+UNF = {UNF:6:CG4S8sYltZv8Btm5uCF/aA==},
+year = {2021},
+version = {V1},
+doi = {10.7910/DVN/S76AZS},
+url = {https://doi.org/10.7910/DVN/S76AZS}
+}
